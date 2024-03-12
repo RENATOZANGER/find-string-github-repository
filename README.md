@@ -1,6 +1,7 @@
 # Find Text in Repository
 
 With this script, you will be able to find specific text in a GitHub repository.
+If find the string in the repository, the file containing the string will be saved in a txt file
 
 ### Required parameters:
 
